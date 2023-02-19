@@ -11,7 +11,7 @@ public class OperatorInInteger {
 			//\n System.out.println("printed2  ....//");
 		  
 		   /*  Integer i;
-		     i=10++11--12++13--14++15;
+		     i=10++11--12++13--14++15; //post inscrement is not possible in value it possible in variable
 		   System.out.println(i);/
 		  }*/
 	  }
